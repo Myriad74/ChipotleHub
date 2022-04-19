@@ -1,5 +1,8 @@
 # ChipotleHub
-This is a lua program formed from a money glitch vulnerability me and my friend discovered 
+**This is an exploit that was discovered on the Roblox game "Chipotle Burrito Builder"**
+
+**What this exploit allows for you to do is gain as much in game currency as you want by "tricking" the server into thinking you have completed the delivery, and therefore just constantly giving you more money**
+
 
 The Git I'm uploading to Github is also the first I've ever made, and it is very simple haha :)
 
@@ -12,3 +15,7 @@ If you find any bugs and/or want to contact me for any improvements that could b
 Email:  myriad74@protonmail.com
 
 Otherwise, just submit a pull request for me to review.
+
+## How the exploit works
+
+YOU MUST HAVE AN EXECUTOR IN ORDER TO ACTUALLY UTILISE THIS EXPLOIT
