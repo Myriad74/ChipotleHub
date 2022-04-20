@@ -21,17 +21,19 @@ Otherwise, just submit a pull request for me to review.
 
 ### Windows/Linux/MacOS
 
-Step 1. Navigate to "Go to file"
+Step 1. Navigate to "Code"
 
-Step 2. Select the file you want to download
+Step 2. Select "Download ZIP"
 
-Step 3. Select the raw format of the file
-
-Step 4. Right click on the file and select "Save Page As"
+Step 3. Extract the folder and choose the location
 
 ### Debian-based Linux Distros
 
-Step 1. Open up a terminal session
+Step 1. Navigate to "Code"
+
+Step 2. Copy the URL link 
+
+Step 3. Open up a terminal session
 
 Step 2. Run the command ***"sudo git clone https://github.com/Myriad74/ChipotleHub/"***
 
