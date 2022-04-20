@@ -31,7 +31,7 @@ Step 3. Extract the folder and choose the location
 
 Step 1. Navigate to "Code"
 
-Step 2. Copy the URL link 
+Step 2. Copy the URL
 
 Step 3. Open up a terminal session
 
