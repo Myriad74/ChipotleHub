@@ -27,7 +27,7 @@ Step 2. Select the file you want to download
 
 Step 3. Select the raw format of the file
 
-Step 4. Right click on the file and select "Save As"
+Step 4. Right click on the file and select "Save Page As"
 
 ### Debian-based Linux Distros
 
