@@ -7,7 +7,7 @@
 
 The Git I'm uploading to Github is also the first I've ever made, and it is very simple haha :)
 
-All jokes aside, I would also like to thank my friend Doloro [Doloro1978] for working with me to discover and develop this exploit.
+I would also like to thank my friend Doloro [Doloro1978] for working with me to discover and develop this exploit.
 
 ## Contact Information
 
